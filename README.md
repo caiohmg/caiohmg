@@ -9,7 +9,7 @@
 <br><br>
 🔗 Tecnologias que eu domino
 <br><br>
-<div style="text-align:center">
+<p align="canter">
 <img  alt="HTML"
 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">     
 
@@ -24,7 +24,7 @@ src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=boot
 
 <img  alt="JAVASCRIPT"
 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-</div>
+<p>
 <br><br>
 
 ## ⚙ &nbsp;GitHub Analytics
