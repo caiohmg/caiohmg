@@ -27,8 +27,7 @@ src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logo
 src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
 
 
-<img align="left" alt="JAVASCRIPT"
-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caiohmg)](https://github.com/caiohmg/github-readme-stats)
 
 <br><br>
 
@@ -37,4 +36,4 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiohmg&show_icons=true&theme=transparent)
 
 
-<img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohmg&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+<img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohmg&layout=compact)](https://github.com/caiohmg/github-readme-stats"/>
