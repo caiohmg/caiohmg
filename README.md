@@ -1,6 +1,6 @@
 <h1> Óla Devs! Me chamo Caio Henrique! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"width="30px"></h1>
 
--🔥 Desenvolvedor Jr
+-🔥 Desenvolvedor Front-end Jr
 
 -🔭 Estou a procura da minha primeira oportunidade de trabalho
 
