@@ -35,7 +35,12 @@ src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=boot
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiohmg&show_icons=true&theme=transparent)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caiohmg)](https://github.com/caiohmg/github-readme-stats)
-
-
 <img align="left" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohmg&layout=compact)](https://github.com/caiohmg/github-readme-stats"/>
+
+
+<a href="https://github.com/caiohmg/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohmg&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/caiohmg/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohmg&repo=convoychat" />
+</a>
