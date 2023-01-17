@@ -27,7 +27,7 @@ src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logo
 src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caiohmg)](https://github.com/caiohmg/github-readme-stats)
+
 
 <br><br>
 
